@@ -1,4 +1,4 @@
-require 'Base64'
+require 'base64'
 
 module Fluent
   class Fluent::ImageFileOutput < Fluent::Output
