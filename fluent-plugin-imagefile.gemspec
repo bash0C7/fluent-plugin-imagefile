@@ -4,11 +4,11 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "fluent-plugin-imagefile"
-  spec.version       = '0.0.0'
+  spec.version       = '0.0.1'
   spec.authors       = ["bash0C7"]
   spec.email         = ["koshiba+github@4038nullpointer.com"]
-  spec.description   = ""
-  spec.summary       = ""
+  spec.description   = "Output plugin to save image file from massages attribute value"
+  spec.summary       = "Output plugin to save image file from massages attribute value"
   spec.homepage      = "https://github.com/bash0C7/fluent-plugin-imagefile"
   spec.license       = "Ruby's"
 
