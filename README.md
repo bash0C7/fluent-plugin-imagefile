@@ -1,4 +1,4 @@
-# fluent-plugin-imagefile
+# fluent-plugin-imagefile, a plugin for [Fluentd](http://fluentd.org)
 
 ## Output
 
